@@ -4,7 +4,11 @@
 
 ---
 
-- [OS]()
-- [Computer networks]()
-- [Front-end]()
-- [React]()
+- [OS](https://github.com/SeanXiaoby/interview-eight-asss/tree/main/OS)
+- [Computer networks](https://github.com/SeanXiaoby/interview-eight-asss/tree/main/Computer-network)
+- [Front-end](https://github.com/SeanXiaoby/interview-eight-asss/tree/main/Front-end)
+- [React](https://github.com/SeanXiaoby/interview-eight-asss/tree/main/React)
+
+---
+
+## 自我介绍
