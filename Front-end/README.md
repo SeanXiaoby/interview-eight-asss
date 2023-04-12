@@ -1,7 +1,6 @@
 # Front-end 前端常见问题
 
 - [Javascript](#Javascript)
-- [DOM](#DOM)
 - [HTML](#HTML)
 - [CSS](#CSS)
 - [Http/Https](#HttpHttps)
