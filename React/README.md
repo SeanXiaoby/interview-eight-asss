@@ -6,6 +6,18 @@
 
 ## React 特性与用法
 
+### hooks
+
+- useState【维护状态】
+- useEffect【完成副作用操作】
+- useContext【使用共享状态】
+- useReducer【类似redux】
+- useCallback【缓存函数】
+- useMemo【缓存值】
+- useRef【访问DOM】
+- useImperativeHandle【使用子组件暴露的值/方法】
+- useLayoutEffect【完成副作用操作，会阻塞浏览器绘制】
+
 ### 组件间通信
 
 - 父->子组件
